@@ -1,0 +1,12 @@
+{
+"applinks": {
+"details": [
+{
+"appIDs": ["64J7PLM525.no.joachim.nordlystv"],
+"components": [
+{ "/": "/auth/trakt/callback", "comment": "Trakt OAuth-callback for NordLight" }
+]
+}
+]
+}
+}
